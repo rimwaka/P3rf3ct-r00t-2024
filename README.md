@@ -37,7 +37,7 @@ Do you want the flag? Have it then,  **r00t{d38252762d3d4fd229faae637fd13f4e}**
 
 
 
-# Stego
+# Stego Category
 
 Steganography (Stego) is the art of concealing information inside some other information. The most common form is text hidden inside images. There are many ways of hiding this information including editing the Least Significant Bits (LSB) of a file.
 
